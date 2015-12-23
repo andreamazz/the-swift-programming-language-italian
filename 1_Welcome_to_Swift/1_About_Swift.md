@@ -1,0 +1,13 @@
+# A proposito di Swift
+
+Swift è il nuovo linguaggio di programmazione per app iOS, OS X, watchOS, e tvOS che nasce dalle parti migliori di C e Objective-C, senza il vincolo dell'interoperabilità con C. Swift adotta pattern di programmazione _safe_ e aggiunge funzionalità moderne per rendere lo sviluppo più facile, più flessibile e più divertente. Swift rappresenta un nuovo inizio, rafforzato dai maturi e ben conosciuti framework di Cocoa e Cocoa Touch, ed è una nuova opportunità di reimmaginare lo sviluppo di software.  
+
+Swift è stato in sviluppo per anni. Apple ha steso le sue fondamenta migliorando l'attuale compilatore, il debugger e i framework dell'infrastruttura. Abbiamo semplificato la gestione della memoria con Automatic Reference Counting (ARC). Lo stack di framework, costruiti sulle solide basi di Foundation e Cocoa, è stato ammodernato e reso standard. Objective-C stesso è evoluto per supportare blocchi, collection literals e moduli, abiilitando l'adozione di tecnologie moderne all'interno dei framework, mantenendone la compatibilità. Grazie a questo lavoro, possiamo introdurre un nuovo linguaggio per il futuro dello sviluppo di software Apple.  
+
+Swift è familiare a sviluppatori Objective-C. Adotta la leggibilità offerta dai parametri con nome di Objective-C e la potenza del modello a oggetti dinamico di Objective-C. Offre l'accesso a framework Cocoa esistenti e alla possibilità di usufruire dell'interoperabilità con Objective-C. A partire da queste basi comuni, Swift introduce molte nuove funzionalità e unifica le porzioni procedurali e orientate agli oggetti del linguaggio.  
+
+Swift è facile da imparare per i nuovi sviluppatori. È il primo linguaggio di qualità industriale ad essere espressivo e godibile come un linguaggio di scripting. Supporta i _playground_, un'innovativa feature che permette agli sviluppatori di sperimentare con il codice Swift e vedere i risultati immediatamente senza il peso di dover compilare ed eseguire un'app.  
+
+Swift combina il meglio del modo di pensare dei moderni linguaggi con la saggezza della cultura ingegneristica Apple. Il compilatore è ottimizzato per le prestazioni e il linguaggio è ottimizzato per lo sviluppo, senza compromessi tra di essi. È disegnato per scalare dal classico "hello world" fino a un intero sistema operativo. Tutto questo rende Swift un solido investimento futuro per gli sviluppatori e per Apple.  
+
+Swift è un fantastico modo per scrivere app iOS, OS X, e tvOS, e continuerà ad evolversi con nuove funzionalità e capacità. I nostri obiettivi per Swift sono ambiziosi. Non vediamo l'ora di vedere cosa creerete.
